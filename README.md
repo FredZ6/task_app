@@ -28,7 +28,7 @@ Technologies Used
 	•	Database: PostgreSQL
 	•	Containerization: Docker
 	•	Build tool: Maven
-	•	CSS Framework: Tailwind CSS (or Material UI)
+	•	CSS Framework: Material UI
 
 Installation
 
