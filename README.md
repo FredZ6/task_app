@@ -1,5 +1,3 @@
-下面是一个示例的 README.md 文件，你可以根据自己的项目实际情况修改：
-
 Task Management System
 
 A task management system built with Spring Boot, React, PostgreSQL, and Docker. This project allows users to manage their tasks with features like creating, updating, and deleting tasks. The project includes a backend API, a frontend web application, and is containerized using Docker.
