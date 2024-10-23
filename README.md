@@ -60,14 +60,7 @@ This will start the backend, frontend, and database services.
 
 Usage
 
-Default Login
-
-By default, the application creates an in-memory user during initialization. You can use the following credentials for initial access:
-
-	•	Username: user
-	•	Password: The password will be generated during startup and printed in the backend logs. Look for a line like:
-
-Using generated security password: [generated-password]
+Default Login: you need to register your own account to access
 
 
 
